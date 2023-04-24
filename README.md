@@ -1,2 +1,2 @@
 # ML-Stroke-Classification
-Predicting Stroke Events using Machine Learning.
+A binomial classification project of Stroke patients using Machine Learning. 
